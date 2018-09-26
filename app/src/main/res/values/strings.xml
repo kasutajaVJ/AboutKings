@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutKings</string>
+    <string name="btnnext">NEXT</string>
+    <string name="king">Last kings</string>
+    <string name="description">Description</string>
+    <string name="remove">Remove</string>
+    <string name="reset">Reset</string>
+</resources>
